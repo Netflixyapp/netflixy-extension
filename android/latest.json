@@ -1,0 +1,20 @@
+{
+  "manager": {
+    "version": "1.0.0",
+    "versionCode": 100,
+    "url": "https://github.com/Netflixyapp/netflixy-extension/raw/main/android/netflixy_manager.apk",
+    "changelog": ""
+  },
+  "netflixy": {
+    "version": "8.16.1",
+    "versionCode": 40141,
+    "url": "https://github.com/Netflixyapp/netflixy-extension/raw/main/android/netflixy.apk",
+    "changelog": "- Mise à jour du serveur"
+  },
+  "netflixyLegacy": {
+    "version": "4.16.4",
+    "versionCode": 15172,
+    "url": "https://github.com/Netflixyapp/netflixy-extension/raw/main/android/netflixy_legacy.apk",
+    "changelog": "- Mise à jour du serveur"
+  }
+}
