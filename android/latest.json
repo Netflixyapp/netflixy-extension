@@ -1,7 +1,7 @@
 {
   "manager": {
-    "version": "1.0.1",
-    "versionCode": 101,
+    "version": "1.0.2",
+    "versionCode": 102,
     "url": "https://github.com/Netflixyapp/netflixy-extension/raw/main/android/netflixy_manager.apk",
     "changelog": "- Lancement de Netflixy Manager"
   },
