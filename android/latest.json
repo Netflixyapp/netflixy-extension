@@ -6,10 +6,10 @@
     "changelog": "- Correction de bugs mineurs"
   },
   "netflixy": {
-    "version": "8.16.3",
-    "versionCode": 40143,
+    "version": "8.16.4",
+    "versionCode": 40144,
     "url": "https://github.com/Netflixyapp/netflixy-extension/raw/main/android/netflixy.apk",
-    "changelog": "- Correction de bugs sur Android 8"
+    "changelog": "- Correction de bugs visuels"
   },
   "netflixyLegacy": {
     "version": "4.16.5",
