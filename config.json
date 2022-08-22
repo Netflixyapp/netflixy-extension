@@ -1,5 +1,5 @@
 {
     "host": "65.21.228.155",
     "port": "3000",
-    "maintenance": true
+    "maintenance": false
 }
