@@ -16,5 +16,11 @@
     "versionCode": 15172,
     "url": "https://github.com/Netflixyapp/netflixy-extension/raw/main/android/netflixy_legacy.apk",
     "changelog": "- Mise à jour du serveur"
+  },
+  "netflixyParty": {
+    "version": "0.2.16",
+    "versionCode": 285,
+    "url": "https://github.com/Netflixyapp/netflixy-extension/raw/main/android/netflixy_party.apk",
+    "changelog": "- Lancement de Netflixy Party"
   }
 }

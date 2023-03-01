@@ -4,5 +4,8 @@
   ],
   "netflixyLegacy": [
     "4.16.5"
+  ],
+  "netflixyParty": [
+	"0.2.16"
   ]
 }
